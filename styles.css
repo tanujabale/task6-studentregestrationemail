@@ -51,7 +51,7 @@ body {
   }
   
   input[type="date"] {
-    width: calc(100% - 2px); /* Adjusting for the border */
+    width: calc(100% - 2px); 
     padding: 8px 5px;
   }
   
